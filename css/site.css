@@ -1,0 +1,16 @@
+html, body, #main-text {
+    height: 100%;
+}
+
+body{
+  background-color: black;
+}
+
+#main-text {
+    font-family: 'Righteous', cursive;
+    font-size: 80px;
+    text-align: center;
+    color: white;
+    word-wrap: break-word;
+
+}
